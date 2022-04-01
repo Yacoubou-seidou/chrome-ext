@@ -1,0 +1,25 @@
+li {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.grow {
+  transition: all 0.2s ease-in-out;
+}
+.grow:hover {
+  transform: scale(1.5);
+}
+
+body {
+  font-size: 10px;
+}
+img {
+  width: 35px;
+  height: 35px;
+}
+.vraicouleur {
+  background-color: rgb(148, 145, 138);
+}
